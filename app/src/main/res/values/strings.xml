@@ -3,4 +3,6 @@
 
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string name="title_activity_jamie_christian">JamieChristianActivity</string>
+    <string name="jamie_christian">Jamie Christian!</string>
 </resources>
